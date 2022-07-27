@@ -1,2 +1,1 @@
-# .github
-Télé-Québec
+# Télé-Québec
